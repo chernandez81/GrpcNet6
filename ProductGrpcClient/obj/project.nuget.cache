@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "qpvHAoOXWucN/iSC2gGmgF8DZK3/tSETQqqV290grBvXD3CagNvAF97bpR89zpAuQ0mU8c676FixC2JFeTi1ag==",
+  "success": true,
+  "projectFilePath": "D:\\NETCore\\gRPCHelloWorld\\GrpcMicroservices\\ProductGrpcClient\\ProductGrpcClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cadhe\\.nuget\\packages\\google.protobuf\\3.21.1\\google.protobuf.3.21.1.nupkg.sha512",
+    "C:\\Users\\Cadhe\\.nuget\\packages\\grpc.core.api\\2.46.1\\grpc.core.api.2.46.1.nupkg.sha512",
+    "C:\\Users\\Cadhe\\.nuget\\packages\\grpc.net.client\\2.46.0\\grpc.net.client.2.46.0.nupkg.sha512",
+    "C:\\Users\\Cadhe\\.nuget\\packages\\grpc.net.clientfactory\\2.46.0\\grpc.net.clientfactory.2.46.0.nupkg.sha512",
+    "C:\\Users\\Cadhe\\.nuget\\packages\\grpc.net.common\\2.46.0\\grpc.net.common.2.46.0.nupkg.sha512",
+    "C:\\Users\\Cadhe\\.nuget\\packages\\grpc.tools\\2.46.3\\grpc.tools.2.46.3.nupkg.sha512",
+    "C:\\Users\\Cadhe\\.nuget\\packages\\microsoft.extensions.configuration\\3.0.3\\microsoft.extensions.configuration.3.0.3.nupkg.sha512",
+    "C:\\Users\\Cadhe\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.3\\microsoft.extensions.configuration.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\Cadhe\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.0.3\\microsoft.extensions.configuration.binder.3.0.3.nupkg.sha512",
+    "C:\\Users\\Cadhe\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.0.3\\microsoft.extensions.dependencyinjection.3.0.3.nupkg.sha512",
+    "C:\\Users\\Cadhe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.3\\microsoft.extensions.dependencyinjection.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\Cadhe\\.nuget\\packages\\microsoft.extensions.http\\3.0.3\\microsoft.extensions.http.3.0.3.nupkg.sha512",
+    "C:\\Users\\Cadhe\\.nuget\\packages\\microsoft.extensions.logging\\3.0.3\\microsoft.extensions.logging.3.0.3.nupkg.sha512",
+    "C:\\Users\\Cadhe\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\Cadhe\\.nuget\\packages\\microsoft.extensions.options\\3.0.3\\microsoft.extensions.options.3.0.3.nupkg.sha512",
+    "C:\\Users\\Cadhe\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.3\\microsoft.extensions.primitives.3.0.3.nupkg.sha512",
+    "C:\\Users\\Cadhe\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

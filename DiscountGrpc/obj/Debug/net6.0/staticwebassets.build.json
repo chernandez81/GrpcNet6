@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aWcmbCnKbhDZLnjs6pqKTPO2w7t0pRW6sHvTm+YxxTY=",
+  "Source": "DiscountGrpc",
+  "BasePath": "_content/DiscountGrpc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

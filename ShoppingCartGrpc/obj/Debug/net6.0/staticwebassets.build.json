@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BS405AMQwlaL2fUR9ujWns4Sztm6DdNAATN5q8FHkWg=",
+  "Source": "ShoppingCartGrpc",
+  "BasePath": "_content/ShoppingCartGrpc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
